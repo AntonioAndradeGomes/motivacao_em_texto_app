@@ -1,6 +1,6 @@
 class Mensagem {
-  int id;
-  String texto, autor, cor;
+
+  String id, texto, autor, cor;
 
   Mensagem({
     this.id,
